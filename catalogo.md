@@ -30,7 +30,7 @@
 </div>
 
 <style>
-  header, .page-header, .site-header, .project-header { display: none !important; }
+  header, .page-header, .site-header { display: none !important; }
   h1.project-name { display: none !important; }
   h2.project-tagline { display: none !important; }
 </style>
