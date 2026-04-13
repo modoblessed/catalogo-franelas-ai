@@ -41,6 +41,15 @@
   </div>
 </div>
 <!-- ITEM:VENEZUELAN:END -->
+<!-- ITEM:I_AM:START -->
+<div style="display: inline-block; width: 45%; margin: 2%; vertical-align: top; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 10px; background-color: #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+  <div style="font-weight: bold; margin-bottom: 8px; font-family: sans-serif; color: #111; font-size: 14px; text-transform: uppercase;">I AM</div>
+  <img src="https://modoblessed.github.io/catalogo-franelas-ai/fotos/I_am_1776087156552.png?t=1776087162333" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover;">
+  <div style="margin-top: 12px;">
+    <a href="https://modoblessed.github.io/catalogo-franelas-ai/fotos/I_am_1776087156552.png" download="I am.png" style="background-color: #000; color: #fff; padding: 8px 0; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 13px; display: block; font-family: sans-serif;">📥 DESCARGAR</a>
+  </div>
+</div>
+<!-- ITEM:I_AM:END -->
 <!-- CATALOG_ITEMS_END -->
 </div>
 
