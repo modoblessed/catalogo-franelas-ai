@@ -78,6 +78,15 @@
   </div>
 </div>
 <!-- ITEM:MM908:END -->
+<!-- ITEM:FLOR_515:START -->
+<div style="display: inline-block; width: 45%; margin: 2%; vertical-align: top; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 10px; background-color: #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+  <div style="font-weight: bold; margin-bottom: 8px; font-family: sans-serif; color: #111; font-size: 14px; text-transform: uppercase;">FLOR 515</div>
+  <img src="https://modoblessed.github.io/catalogo-franelas-ai/fotos/Flor_515_1781238635472.png?t=1781238640815" style="width: 100%; border-radius: 8px; aspect-ratio: 1/1; object-fit: cover;">
+  <div style="margin-top: 12px;">
+    <a href="https://modoblessed.github.io/catalogo-franelas-ai/fotos/Flor_515_1781238635472.png" download="Flor 515.png" style="background-color: #000; color: #fff; padding: 8px 0; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 13px; display: block; font-family: sans-serif;">📥 DESCARGAR</a>
+  </div>
+</div>
+<!-- ITEM:FLOR_515:END -->
 <!-- CATALOG_ITEMS_END -->
 </div>
 
